@@ -194,3 +194,9 @@ To access an up-to-date working environment (with all dependencies including CUD
 # Contact
 
 **Issues should be raised directly in the repository.** For additional questions or comments please email Glenn Jocher at glenn.jocher@ultralytics.com or visit us at https://contact.ultralytics.com.
+
+==================
+test
+
+
+python3 detect.py --cfg cfg/yolov3-spp.cfg --weights weights/ultralytics68.pt --source data/samples/zidane.jpg
